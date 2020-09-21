@@ -1,0 +1,68 @@
+.sansserif {
+    font-family: "open sans", Helvetica, Arial;
+}
+
+body {
+    background-color: #D3D3D3;
+    font-family: "open sans";
+    color: grey;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+h1 {
+    font-size: 36px;
+    color: darkred;
+    font-weight: bold;
+}
+
+
+span.b {
+    display: inline-block;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    padding: 5px;
+    orientation: center;
+    margin: 10% 25%;
+    border: 1px solid white;    
+    background-color: white; 
+}
+
+p.text {
+    text-align: justify;
+    font-size: 14px;
+}
+
+Div.b {
+    display: inline-block;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    padding: 5px;
+    orientation: center;
+    margin: 0% 25%;
+    border: 1px solid white;    
+    background-color: white; 
+}
+
+.crop {
+    width: 150px;
+    height: 150px;
+    position: center;
+    overflow: 2px grey;
+    border-radius: 50%;
+    outline-color: lightgray 5px;
+  }
+
+  .button {
+    background-color: darkred ;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;}
